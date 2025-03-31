@@ -10,6 +10,8 @@ This project analyzes Amazon’s discount strategies across various product cate
 
 ### 📈 Discounts Distribution
 
+![Discount Distribution](images/image.png)
+
 - The majority of discounts fall in the 40%–60% range, where they appear to be most effective at boosting sales.
 
 - Discounts below 40% and above 60% are far less frequent, indicating that:
@@ -22,7 +24,9 @@ This project analyzes Amazon’s discount strategies across various product cate
 
 ---
 
-### 🎯 Discounts & Customer Ratings
+### 🎯 Correlaion Matrix
+
+![Correlation Matrix](images/image-1.png)
 
 - Weak correlation between discount % and customer ratings (r = -0.16).
 - Regression plots:
@@ -36,6 +40,8 @@ This project analyzes Amazon’s discount strategies across various product cate
 
 ### 💸 Discount vs Sales Volume 
 
+![Discount vs Sales Volume ](images/image-2.png)
+
 - **Electronics & Computers**: High discounts (50%+) = high sales → effective use of discounting.
 - **Home & Kitchen**: Moderate discounts = moderate sales → influenced by utility, design, or presentation.
 - **Office Products & Others**: High/low discounts, still low sales → discounts don’t drive demand here.
@@ -43,6 +49,8 @@ This project analyzes Amazon’s discount strategies across various product cate
 ---
 
 ### ⭐ Average Discount vs Customer Rating 
+
+![Average Discount vs Customer Rating ](images/image-3.png)
 
 - **Office Products**: Highest average rating (4.31) with minimal discount → quality wins over price.
 - **Electronics & Computers**: Heavy discounts (>50%) but only moderate ratings (~4.1) → discounts ≠ satisfaction.
@@ -52,9 +60,25 @@ This project analyzes Amazon’s discount strategies across various product cate
 
 ## 🔎 High-Ticket Item Trends
 
+![High-Ticket Item Trends](images/image-4.png)
+
 - **Electronics**: Lowest discount (36%) but highest sales → strong natural demand.
 - **Computers & Accessories**: Deep discounts (47.7%) yet lowest sales → brand loyalty or saturation may be factors.
 - **Home & Kitchen**: High discounts but weak sales → discounts ineffective for high-end home goods.
+
+---
+
+## 🗣️ Customer Feedback Word Cloud
+
+![Word Cloud](images/image-5.png)
+
+- Common issues: “not working,” “battery,” “slow,” and “connectivity” — especially in tech products.
+
+- Terms like “value for money” and “not as expected” suggest a gap between expectation and reality.
+
+- Mixed words like “good” and “ok” show partial satisfaction, but deeper quality concerns remain.
+
+📌 Discounts don’t solve product flaws — focus on quality and clear descriptions.
 
 ---
 

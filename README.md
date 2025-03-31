@@ -4,7 +4,23 @@
 
 This project analyzes Amazon’s discount strategies across various product categories, focusing on how discounts impact **sales volume**, **customer ratings**, and **purchase behavior**. Despite assumptions, deeper discounts don’t always lead to higher satisfaction or more sales — and sometimes, they’re not effective at all.
 
+---
+
 ## 🧠 Key Insights
+
+### 📈 Discounts Distribution
+
+- The majority of discounts fall in the 40%–60% range, where they appear to be most effective at boosting sales.
+
+- Discounts below 40% and above 60% are far less frequent, indicating that:
+
+ - Small discounts may be insufficient to motivate buyers.
+
+ - Large discounts might be rare due to profit concerns or may fail to increase sales in some categories.
+
+- This pattern suggests that mid-range discounts strike the best balance between attracting customers and maintaining margins.
+
+---
 
 ### 🎯 Discounts & Customer Ratings
 
@@ -18,7 +34,7 @@ This project analyzes Amazon’s discount strategies across various product cate
 
 ---
 
-### 💸 Discount vs Sales Volume (Figure 5)
+### 💸 Discount vs Sales Volume 
 
 - **Electronics & Computers**: High discounts (50%+) = high sales → effective use of discounting.
 - **Home & Kitchen**: Moderate discounts = moderate sales → influenced by utility, design, or presentation.
@@ -26,7 +42,7 @@ This project analyzes Amazon’s discount strategies across various product cate
 
 ---
 
-### ⭐ Average Discount vs Customer Rating (Figure 7)
+### ⭐ Average Discount vs Customer Rating 
 
 - **Office Products**: Highest average rating (4.31) with minimal discount → quality wins over price.
 - **Electronics & Computers**: Heavy discounts (>50%) but only moderate ratings (~4.1) → discounts ≠ satisfaction.

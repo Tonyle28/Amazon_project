@@ -98,6 +98,6 @@ Explore the full code and visualizations here:
 ---
 
 ## 👋 Contact
-For questions or feedback, please reach out to tonyle2814@gmail.com.
+For questions or feedback, please reach out to tonyle2814@gmail.com
 
 
